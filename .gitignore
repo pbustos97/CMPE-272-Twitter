@@ -1,0 +1,6 @@
+twitter-backend/secret/
+twitter-backend/__pycache__/
+API_Response_Example.json
+.DS_Store
+*.docx
+twitter-frontend/node_modules/
